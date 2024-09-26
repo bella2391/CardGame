@@ -1,0 +1,6 @@
+# このファイルは、EditorConfigを使用してC#のフォーマットスタイルを制御します
+
+[*.cs]
+charset = utf-8
+# メソッドやクラス、プロパティのブレースを同じ行に配置
+csharp_new_line_before_open_brace = none

@@ -1,4 +1,7 @@
 {
+    "editor.formatOnSave": true,  // 保存時に自動でフォーマット
+    "csharp.format.enable": true,
+    //"prettier.bracketSameLine": true,
     "files.exclude": {
         "**/.DS_Store": true,
         "**/.git": true,
